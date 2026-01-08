@@ -23,9 +23,9 @@ We performed:
 This README summarizes the findings and concludes which variant should be scaled.
 
 Project Structure
-├── ab_test_creatives.csv     # Raw data
-├── ab_test_analysis.ipynb    # Google Colab notebook with code
-└── README.md                 # This file
+ab_test_creatives.csv — Raw dataset
+ab_test_analysis.ipynb — Google Colab notebook with analysis code
+README.md — Project documentation
 
 Key Metrics Calculated
 For each variant, we computed:
